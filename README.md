@@ -30,8 +30,8 @@
 
 ### ​ Hands-on Experience
 - **IoT Projects**: Smart Lighting System, Wearable Obstacle Detection  
-- **Research Projects**: AES-DES-RSA Hybrid Cryptographic Model, Energy-Efficient Anomaly Detection in IoT Networks  
-- **Software & Tools**: MATLAB, Python, Google Colab, Arduino IDE, GitHub  
+- **Research Projects**: AES-DES-RSA Hybrid Cryptographic Model, Enhanced Spectrum Sensing Using Fast Slepian Transform for Cognitive Radio Networks
+- **Software & Tools**: MATLAB, Python, Google Colab, Arduino IDE, GitHub, Altium
 
 ---
 
