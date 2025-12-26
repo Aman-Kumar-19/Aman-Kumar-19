@@ -22,9 +22,12 @@
   *Focus: Cognitive radio, fast spectrum sensing, IoT networks*
   
 
-2. **A Review on Precoding Techniques for Massive MIMO-Based Wireless Communication**  
-   Published in **2024 Second International Conference on Microwave, Antenna and Communication (MAC)** | DOI: [10.1109/MAC61551.2024.10837026](https://doi.org/10.1109/MAC61551.2024.10837026)  
+- **A Review on Precoding Techniques for Massive MIMO-Based Wireless Communication**  
+   Published in **2024 Second International Conference on Microwave, Antenna and Communication (MAC)** | DOI: [10.1109/MAC61551.2024.10837026](https://doi.org/10.1109/MAC61551.2024.10837026)
 
+- **Hybrid cryptographic approach for strengthening IoT and 5G/B5G network security**
+   Published in Scientific Reports, 2025. DOI: [10.1038/s41598-025-21861-2] (https://doi.org/10.1038/s41598-025-21861-2)
+   *Focus: Hybrid cryptographic, 5G/B5G network security, IOT networks*
 ---
 
 
