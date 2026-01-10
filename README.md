@@ -1,84 +1,103 @@
-# Hi there 👋, I'm Aman Kumar
+# Hi 👋, I'm Aman Kumar
 
-🎓 Graduated **B.Tech in Electronics and Communication Engineering (ECE)** from **VIT University, Vellore**  
-🔬 Passionate about **Circuit Design, IoT Systems, Drones, and Cryptography in 5G/B5G Networks**  
-📚 Published researcher in **IEEE Access**  
+🎓 **B.Tech Graduate – Electronics & Communication Engineering (ECE)**  
+🏭 **Embedded Systems Intern – CNH Industrial (3 Months)**  
+🏫 **VIT University, Vellore**
 
-💡 **Personal Story / Mission:**  
-“I engineer solutions at the intersection of research and real-world applications, from embedded systems to drone development.”
-
-💻 Skilled in **Embedded Systems, Machine Learning, Data Science, Cloud Analytics, and Drone Development**
- 
-🌐 Check out my **Portfolio:** [aman-kumar-portfolio](https://aman-kumar-19.github.io/aman-kumar-portfolio/)  
-  
+🔧 **Embedded / Firmware Engineer** with hands-on experience in **bare-metal MCU bring-up, peripheral driver development, cellular IoT integration, secure cloud connectivity, and system-level debugging**.
 
 ---
 
-## 🧪 Research & Publications
+## 🏭 Industry Experience
 
-1. ## 🔬 Research & Publications
+### Embedded Systems Intern — CNH Industrial
+- End-to-end development of an **embedded IoT telematics system**
+- **Bare-metal bring-up** on PIC32CX SG61 (Curiosity Ultra)
+- Peripheral drivers: **GPIO, Timers, Interrupts, UART, SPI, ADC, PWM, I²C**
+- Cellular integration using **EC200U-CN** (GPS, SMS, cloud data)
+- Secure cloud communication: **MQTT, HTTPS, TLS/mTLS, SAS tokens**
+- Debugging: AT commands, SSL/TLS issues, payload formatting, network behavior
+- System integration, stabilization, and technical documentation
+
+> ⚠️ Company firmware and internal tools are protected under NDA; no proprietary code is published.
+
+---
+
+## 🧩 Hands-on Projects & Engineering Work
+
+> Academic, self-built, and experimental work used to strengthen embedded and communication fundamentals.
+
+### 🔹 Embedded & IoT
+- **Smart Lighting System** – sensor-driven automation logic  
+- **Wearable Obstacle Detection System** – real-time sensing and alerts  
+- **Bare-metal PIC32CX peripheral driver development** (learning & validation)
+
+### 🔹 Research Implementations
+- **AES–DES–RSA Hybrid Cryptographic Model**
+- **Spectrum sensing algorithms for cognitive radio networks**
+
+### 🔹 Hardware & PCB
+- **+5V to +3.3V Voltage Regulator PCB** (Altium Designer)
+- **MCU–sensor interfacing and pin multiplexing**
+
+---
+
+## 🛠️ What I Build
+
+- Bare-metal firmware for MCUs (**PIC32CX, STM32**)
+- Peripheral drivers (**GPIO, ADC, DMA, Timers**)
+- Cellular IoT systems (**EC200U, MQTT, HTTPS**)
+- Secure cloud-connected embedded systems
+- Well-documented, reproducible engineering workflows
+
+---
+
+## 📌 Pinned Projects (In Progress & Planned)
+
+> Public repositories focused on **generic, self-built, NDA-safe firmware engineering**, inspired by industry practices.
+
+### 🔹 Upcoming Repository: **bare-metal-programming-guide** *(Planned)*
+
+**Purpose:**  
+A practical, step-by-step guide to **bare-metal firmware development**, written from real industry experience and implemented on independent hardware setups.
+
+**Planned Content (added incrementally):**
+- MCU boot process & startup code explanation
+- Clock tree configuration (with diagrams)
+- Linker script fundamentals (FLASH / RAM layout)
+- Register-level peripheral programming
+- Interrupt handling & NVIC concepts
+- ADC (polling vs DMA): theory + examples
+- Debugging techniques (common mistakes & fixes)
+- Clean firmware folder structure
+- Engineering notes & best practices
+
+---
+
+## 🔬 Research & Publications
+
 - **Enhanced Spectrum Sensing Using Fast Slepian Transform for Cognitive Radio Networks**  
-  Published in IEEE Access, 2025. DOI: [10.1109/ACCESS.2025.3596336](https://doi.org/10.1109/ACCESS.2025.3596336)  
-  *Focus: Cognitive radio, fast spectrum sensing, IoT networks*
-  
+  *IEEE Access, 2025*  
+  DOI: https://doi.org/10.1109/ACCESS.2025.3596336
 
-- **A Review on Precoding Techniques for Massive MIMO-Based Wireless Communication**  
-   Published in **2024 Second International Conference on Microwave, Antenna and Communication (MAC)** | DOI: [10.1109/MAC61551.2024.10837026](https://doi.org/10.1109/MAC61551.2024.10837026)
-
-- **Hybrid cryptographic approach for strengthening IoT and 5G/B5G network security**
-   Published in Scientific Reports, 2025. DOI: [10.1038/s41598-025-21861-2] (https://doi.org/10.1038/s41598-025-21861-2)
-   *Focus: Hybrid cryptographic, 5G/B5G network security, IOT networks*
----
-
-
-### ​ Hands-on Experience
-- **IoT Projects**: Smart Lighting System, Wearable Obstacle Detection  
-- **Research Projects**: AES-DES-RSA Hybrid Cryptographic Model, Enhanced Spectrum Sensing Using Fast Slepian Transform for Cognitive Radio Networks
-- **Software & Tools**: MATLAB, Python, Google Colab, Arduino IDE, GitHub, Altium
+- **Hybrid Cryptographic Approach for Strengthening IoT and 5G/B5G Network Security**  
+  *Scientific Reports, 2025*  
+  DOI: https://doi.org/10.1038/s41598-025-21861-2
 
 ---
 
-### ​ Current Focus
-- Exploring **Wireless & Wired Communication & Circuit Design Research**  
-- Building projects in **Drones, Cloud Analytics, and Data Science**  
-- Expanding skills in **Embedded Systems & AI for Communications** 
+## 🎯 Current Focus
+- Bare-metal firmware engineering
+- Peripheral driver optimization
+- Secure cellular IoT systems
+- Firmware documentation & long-term stability
 
 ---
 
-###  Connect with me
-- 📧 Email: [amankr20001@gmail.com](mailto:amankr20001@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aman-kumar-413838239/)  
-- 🧾 [ORCID](https://orcid.org/0009-0004-9007-4771)  
-- 🌐 [Portfolio](https://aman-kumar-19.github.io/aman-kumar-portfolio/) 
-
----
-
-##  GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Kumar-19&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Kumar-19&layout=compact&theme=tokyonight" alt="Most Used Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Kumar-19&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
-
----
-
-## 🛠️ Tech Stack & Skills  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-2C2255?style=for-the-badge&logo=arduino&logoColor=white)  
-![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=raspberrypi&logoColor=white)  
-![PCB](https://img.shields.io/badge/PCB-FF6F00?style=for-the-badge&logo=pcbway&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange)  
-![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=anaconda&logoColor=white)  
-![Cloud Analytics](https://img.shields.io/badge/Cloud%20Analytics-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
- 
+## 📫 Contact
+- 📧 Email: **amankr20001@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/aman-kumar-413838239/
+- 🌐 Portfolio: https://aman-kumar-19.github.io/aman-kumar-portfolio/
 
 ---
 
