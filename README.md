@@ -1,7 +1,7 @@
 # Hi 👋, I'm Aman Kumar
 
 🎓 **B.Tech Graduate – Electronics & Communication Engineering (ECE)**  
-🏭 **Embedded Systems Intern – CNH Industrial (3 Months)**  
+🏭 **Embedded Systems Intern – CNH Industrial**  
 🏫 **VIT University, Vellore**
 
 🔧 **Embedded / Firmware Engineer** with hands-on experience in **bare-metal MCU bring-up, peripheral driver development, cellular IoT integration, secure cloud connectivity, and system-level debugging**.
@@ -10,7 +10,7 @@
 
 ## 🏭 Industry Experience
 
-### Embedded Systems Intern — CNH Industrial
+### 🔹 Embedded Systems Intern — CNH Industrial
 - End-to-end development of an **embedded IoT telematics system**
 - **Bare-metal bring-up** on PIC32CX SG61 (Curiosity Ultra)
 - Peripheral drivers: **GPIO, Timers, Interrupts, UART, SPI, ADC, PWM, I²C**
@@ -19,7 +19,26 @@
 - Debugging: AT commands, SSL/TLS issues, payload formatting, network behavior
 - System integration, stabilization, and technical documentation
 
-> ⚠️ Company firmware and internal tools are protected under NDA; no proprietary code is published.
+
+### 🔹  Internet of Things Intern — Seculinx  
+**Sep 2024 – Jan 2025 | Vellore, India (On-site)**
+
+- Designed and implemented a smart lighting automation system to optimize energy consumption using real-time sensor data.
+- Integrated ESP32 microcontrollers with multiple sensors for adaptive and dynamic lighting control.
+- Developed and tested embedded firmware using Arduino IDE with a focus on reliability and modular design.
+- Collaborated with cross-functional teams to ensure seamless hardware–software integration.
+- Gained hands-on experience in IoT system architecture, sensor interfacing, and embedded debugging.
+
+
+### 🔹  Embedded Engineer Intern — Maven Silicon  
+**Jun 2024 – Jul 2024 | Remote**
+
+- Built a wearable obstacle detection system for visually impaired users.
+- Implemented real-time obstacle alerts using Arduino Nano, ultrasonic sensors, and buzzer feedback.
+- Conducted extensive testing and calibration to improve detection accuracy and system reliability.
+- Documented system design, testing methodology, and results for technical review.
+
+
 
 ---
 
@@ -93,6 +112,12 @@ A practical, step-by-step guide to **bare-metal firmware development**, written 
 - Firmware documentation & long-term stability
 
 ---
+
+
+
+
+
+
 
 ## 📫 Contact
 - 📧 Email: **amankr20001@gmail.com**
