@@ -122,7 +122,7 @@ A practical, step-by-step guide to **bare-metal firmware development**, written 
 ## 📫 Contact
 - 📧 Email: **amankr20001@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/aman-kumar-413838239/
-- 🌐 Portfolio: https://aman-kumar-19.github.io/aman-kumar-portfolio/
+- 🌐 Portfolio: https://aman-kumar-19.vercel.app/
 
 ---
 
