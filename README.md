@@ -13,13 +13,28 @@
 
 ---
 
-## ⚡ About Me
+## 🧑‍💻 About Me
 
-- 🎓 B.Tech in **Electronics & Communication Engineering** — VIT Vellore  
-- 🏭 Embedded Systems Intern at **CNH Industrial**  
-- 🧠 Focused on **low-level firmware, real-time systems, and connected devices**  
-- ⚙️ Passionate about **building reliable systems from hardware → cloud**
+```c
+struct Engineer {
+    const char* role = "Embedded Systems & Firmware Engineer";
+    const char* domain = "Automotive & Cellular IoT";
+    const char* education = "B.Tech ECE — VIT Vellore";
 
+    const char* experience[] = {
+        "Embedded Systems Intern @ CNH Industrial",
+        "IoT Systems & Real-Time Firmware Development"
+    };
+
+    const char* focus[] = {
+        "Bare-metal firmware",
+        "Peripheral driver development",
+        "Secure device-to-cloud communication"
+    };
+
+    const char* current_work = "Building production-grade embedded systems (MCU → Cloud)";
+};
+```
 ---
 
 
@@ -134,30 +149,75 @@
 
 ## 🧩 Engineering Projects
 
-### 🔹 Embedded & IoT
-- Smart Lighting Automation System  
-- Wearable Obstacle Detection System  
-- Bare-metal driver development (learning + validation)
+---
 
-### 🔹 Research Work
-- AES–DES–RSA Hybrid Cryptographic Model  
-- Spectrum sensing for cognitive radio networks  
+### 🔹 🚗 Vehicle Telemetry Platform
 
-### 🔹 Hardware & PCB
-- +5V → +3.3V Voltage Regulator PCB (Altium Designer)  
-- MCU–sensor interfacing & pin multiplexing  
+<div align="center">
+
+<a href="https://github.com/Aman-Kumar-19/vehicle-telemetry-platform" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+- Built a **software-based simulation of an automotive CAN network**
+- Emulates multiple ECUs transmitting **real-time CAN frames**
+- Developed a **CAN analyzer** for decoding and visualizing vehicle data  
+- Demonstrates:
+  - ECU communication patterns  
+  - CAN message structures  
+  - Automotive system-level behavior  
 
 ---
 
-## 🔬 Research & Publications
+### 🔹 🔌 DC-DC Power Converter PCB
 
-- **Enhanced Spectrum Sensing Using Fast Slepian Transform for Cognitive Radio Networks**  
-  IEEE Access, 2025  
+<div align="center">
 
-- **Hybrid Cryptographic Approach for IoT and 5G/B5G Security**  
-  Scientific Reports, 2025  
+<a href="https://github.com/Aman-Kumar-19/DC-DC-Power-Converter-PCB" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Design-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+- Designed a **+5V → +3.3V voltage regulation PCB**
+- Focused on:
+  - Power efficiency  
+  - Stable voltage output  
+  - Component selection & layout optimization  
+- Implemented using **Altium Designer**
 
 ---
+
+### 🔹 ⚙️ Embedded & IoT Systems
+
+- **Smart Lighting Automation System**  
+  → Sensor-based adaptive lighting using real-time inputs  
+
+- **Wearable Obstacle Detection System**  
+  → Real-time obstacle alerts using ultrasonic sensing  
+  🔗 https://github.com/Aman-Kumar-19/Obstacle-Detection-Blind  
+
+- **Bare-metal Driver Development**  
+  → Register-level peripheral programming and validation  
+  🔗 https://github.com/Aman-Kumar-19/bare-metal-programming  
+
+ 
+
+---
+
+### 🔹 🔬 Research Work
+
+- **Fast Slepian Transform for Spectrum Sensing**  
+  📄 DOI: https://doi.org/10.1109/ACCESS.2025.11115038  
+
+- **Hybrid Cryptographic Model (AES–DES–RSA)**  
+  📄 DOI: https://doi.org/10.1038/s41598-025-21861-2  
+
+---
+
+
 
 ## 🎯 Current Focus
 
