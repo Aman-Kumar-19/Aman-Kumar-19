@@ -34,6 +34,7 @@ struct Engineer {
 
     const char* current_work = "Building production-grade embedded systems (MCU → Cloud)";
 };
+
 ```
 ---
 
@@ -147,6 +148,58 @@ struct Engineer {
 
 ----
 
+## 🚀 Featured Project
+
+<div align="center">
+
+### 🔹 bare-metal-programming-guide
+
+⚙️ **From MCU boot → register-level control → real-world debugging**
+
+<a href="https://github.com/Aman-Kumar-19/bare-metal-programming" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### 🚧 Problem / Challenge
+- Most resources are **theory-heavy** and not aligned with real firmware work  
+- Lack of clarity in:
+  - MCU startup sequence  
+  - Linker scripts & memory layout  
+  - Debugging real embedded failures  
+
+---
+
+### ⚙️ What This Project Does
+- Explains **bare-metal firmware from scratch → step-by-step**
+- Covers:
+  - MCU boot process & startup code  
+  - Linker scripts (FLASH / RAM layout)  
+  - Register-level peripheral programming  
+  - Interrupt handling & NVIC  
+  - ADC (Polling vs DMA)  
+- Demonstrates **real debugging scenarios and fixes**
+
+---
+
+### 🚀 Engineering Impact
+- Bridges gap between **theory and production firmware development**  
+- Helps engineers transition from:
+  - High-level coding → **low-level system understanding**  
+- Structured like **industry-grade firmware documentation**
+
+---
+
+### 🧠 Why It Stands Out
+- Not just “how it works” → **why it breaks & how to fix it**  
+- Focus on **edge cases, failures, and debugging mindset**  
+- Built from **hands-on embedded experience (not copied tutorials)**  
+
+---
+
 ## 🧩 Engineering Projects
 
 ---
@@ -225,58 +278,6 @@ struct Engineer {
 - 🔧 Designing **efficient peripheral drivers** (interrupt-driven & low-latency systems)  
 - 🌐 Building **secure cellular IoT pipelines** (device → cloud using MQTT, TLS/mTLS)  
 - 🧠 Developing **production-grade embedded architectures** with clean, scalable design  
-
----
-
-## 🚀 Featured Project
-
-<div align="center">
-
-### 🔹 bare-metal-programming-guide
-
-⚙️ **From MCU boot → register-level control → real-world debugging**
-
-<a href="https://github.com/Aman-Kumar-19/bare-metal-programming" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-### 🚧 Problem / Challenge
-- Most resources are **theory-heavy** and not aligned with real firmware work  
-- Lack of clarity in:
-  - MCU startup sequence  
-  - Linker scripts & memory layout  
-  - Debugging real embedded failures  
-
----
-
-### ⚙️ What This Project Does
-- Explains **bare-metal firmware from scratch → step-by-step**
-- Covers:
-  - MCU boot process & startup code  
-  - Linker scripts (FLASH / RAM layout)  
-  - Register-level peripheral programming  
-  - Interrupt handling & NVIC  
-  - ADC (Polling vs DMA)  
-- Demonstrates **real debugging scenarios and fixes**
-
----
-
-### 🚀 Engineering Impact
-- Bridges gap between **theory and production firmware development**  
-- Helps engineers transition from:
-  - High-level coding → **low-level system understanding**  
-- Structured like **industry-grade firmware documentation**
-
----
-
-### 🧠 Why It Stands Out
-- Not just “how it works” → **why it breaks & how to fix it**  
-- Focus on **edge cases, failures, and debugging mindset**  
-- Built from **hands-on embedded experience (not copied tutorials)**  
 
 ---
 
